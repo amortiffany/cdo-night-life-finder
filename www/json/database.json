@@ -1,0 +1,163 @@
+[
+          {
+            "name" : "Lifestyle District",
+            "categoryDesc" : "Bar & Grill",
+            "category" : [
+                  "bar", "restaurant"
+            ],
+            "add" : "Corrales Ext., Cagayan de Oro City", 
+            "openHrs" : "5:00 pm – 5:00 am", 
+            "tab" : "popular", 
+            "imglocation" : "img/logo/lifestyle.jpg"
+          },
+          {
+            "name" : "Butchers Best Barbeque", 
+            "categoryDesc" : "Barbeque Restaurant", 
+            "add" : "Xavier (Hayes St.), Cagayan de Oro City",
+            "category" : [
+              "restaurant"
+            ],
+            "openHrs" : "11:00 am – 11:00 pm", 
+            "tab" : "popular",
+            "imglocation" : "img/logo/butchers.jpg" 
+           },
+          {
+            "name" : "Redtail Shrimps & More", 
+            "categoryDesc" : "Seafood Restaurant",
+            "category" : [
+              "restaurant"
+            ],
+            "add" : "Velez, Cagayan de Oro", 
+            "openHrs" : "10:00 am – 10:00 pm", 
+            "tab" : "popular", 
+            "imglocation" : "img/logo/redtail.jpg"
+          },
+          {
+            "name" : "Boy Zugba", 
+            "categoryDesc" : "Filipino Restaurant", 
+            "add" : "Corrales Avenue Cagayan de Oro",
+            "category": [
+                  "restaurant"
+            ],
+            "openHrs" : "10:00 am – 10:00 pm", 
+            "tab" : "popular", 
+            "imglocation" : "img/logo/boyzugba.jpg"
+          },
+          { "name": "Backyard Burgers", 
+            "categoryDesc": "Restaurant", 
+            "add" : "Corrales Avenue Cagayan de Oro",
+            "category": [
+                  "restaurant"
+            ],
+            "openHrs" : "11:00 am – 11:00 pm", 
+            "tab": "popular", 
+            "imglocation": "img/logo/backyard.jpg" 
+          },
+          {
+            "name" : "LED KTV and Bar", 
+            "categoryDesc" : "KTV and Bar",
+            "category" : [
+                  "nightclub", "bar", "ktv"
+            ],
+            "add" : "Corrales Avenue Cagayan de Oro",
+            "openHrs" : "5:00 pm – 2:00 am", 
+            "tab" : "affordable", 
+            "imglocation" : "img/logo/led.jpg" 
+          },
+          {
+            "name" : "Watever! Family KTV", 
+            "categoryDesc" : "KTV and Bar",
+            "category" : [
+                  "bar", "ktv"
+            ],
+            "add" : "Corrales Avenue Cagayan de Oro",
+            "openHrs" : "5:00 pm – 2:00 am", 
+            "tab" : "affordable", 
+            "imglocation" : "img/logo/whatever.png" 
+          },
+          {
+            "name" : "8th Street Bar & Grill", 
+            "categoryDesc" : "Bar - Food & Restaurant",
+            "category" : [
+                  "bar", "restaurant"
+            ],
+            "add" : "8th Street-Tomasaco Nazareth, Cagayan de Oro",
+            "openHrs" : "5:00 pm – 2:00 am", 
+            "tab" : "affordable", 
+            "imglocation" : "img/logo/8thstreet.jpg" 
+          },
+          {
+            "name" : "Galam Music Lounge", 
+            "categoryDesc" : "Bar - KTV",
+            "category" : [
+                  "bar", "ktv"
+            ],
+            "add" : "Corner Serina-Villiarin St. Carmen, Cagayan de Oro",
+            "openHrs" : "5:00 pm – 2:00 am", 
+            "tab" : "affordable", 
+            "imglocation": "img/logo/galam.jpg" 
+          },
+          {
+            "name": "Sentro 1850", 
+            "categoryDesc":"Restaurant",
+            "category": [
+                  "restaurant"
+            ],
+            "add": "Don A. Velez Street, Cagayan de Oro",
+            "openHrs": "5:00 pm – 2:00 am", 
+            "tab": "affordable", 
+            "imglocation": "img/logo/sentro.jpg" 
+          },
+          {
+            "name": "Thai Me Up", 
+            "categoryDesc": "Restaurant",
+            "category": [
+                  "restaurant"
+            ],
+            "add": "Capistrano Street, Cagayan de Oro",
+            "openHrs": "5:00 pm – 2:00 am", 
+            "tab": "nearby", 
+            "imglocation": "img/logo/thaimeup.jpg" 
+          },
+          {
+            "name": "The Beat Club", 
+            "categoryDesc":"Nightclub",
+            "category": [
+                  "nightclub", "bar"
+            ],
+            "add":"Corner Tiano Hayes St. Cagayan de Oro",
+            "openHrs":"5:00 pm – 2:00 am", 
+            "tab": "nearby", 
+            "imglocation": "img/logo/beat.png" 
+          },
+          { "name": "Pulse", 
+            "categoryDesc": "Nightclub",
+            "category": [
+                  "nightclub", "bar"
+            ],
+            "add":"Corner Tiano Hayes St. Cagayan de Oro",
+            "openHrs":"5:00 pm – 2:00 am", 
+            "tab": "nearby", 
+            "imglocation": "img/logo/pulse.jpg" 
+          },
+          { "name": "Loretos Grill & Restaurant", 
+            "categoryDesc":"Bar & Grill · Barbecue restaurant",
+            "category": [
+                  "bar", "restaurant"
+            ],
+            "add":"#35 Tomas Saco 6th Nazareth, Cagayan de Oro",
+            "openHrs":"5:00 pm – 2:00 am", 
+            "tab": "nearby", 
+            "imglocation": "img/logo/loretos.jpg" 
+          },
+          { "name": "Inilog Grill", 
+            "categoryDesc": "Bar & Grill · Barbecue restaurant",
+            "category": [
+                  "bar"
+            ],
+            "add": "Don Apolinar Velez Street, Cagayan de Oro",
+            "openHrs":"5:00 pm – 2:00 am", 
+            "tab": "nearby", 
+            "imglocation": "img/logo/inilog.jpg" 
+          }
+]

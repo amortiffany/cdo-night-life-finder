@@ -1,0 +1,16 @@
+<ion-view view-title="">
+  <ion-content>
+
+    <div class="list" >
+
+	    <a class="item item-thumbnail-left" href="#/placetabs/details" ng-repeat="place in popularPlaces">
+	      <img ng-src="{{place.imglocation}}">
+	      <h2>{{ place.name }}</h2>
+	      <p>{{ place.categoryDesc }}</p>
+	      <p>{{ place.add }}</p>
+	      <p>Rating: 5/5</p>
+	    </a>
+
+	</div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,18 @@
+<ion-view view-title="">
+  
+	<ion-header-bar align-title="center" class="bar-header">
+	  <button class="button button-icon icon ion-navicon" menu-toggle="left"></button>
+	      <div class="h1 title">Categories</div>
+	</ion-header-bar>
+
+	<ion-content>
+		<ul class="list">
+		    <li class="item" ng-repeat="category in categories">
+		    	<a href="#/home/categories/{{category.name}}" style="text-decoration: none">
+		      <h2><i class="{{category.icon}}"></i> {{category.kind}}</h2>
+		      </a>
+		    </li>
+		</ul>
+	</ion-content>
+</ion-view>
+  

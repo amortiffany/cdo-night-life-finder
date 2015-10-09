@@ -1,0 +1,16 @@
+<ion-view view-title="">
+  <ion-content>
+
+    <div class="list" >
+
+	    <a class="item item-thumbnail-left" href="#" ng-repeat="items in categoryList">
+	      <img ng-src="{{items.imglocation}}">
+	      <h2>{{ items.name }}</h2>
+	      <p>{{ items.categoryDesc }}</p>
+	      <p>{{ items.add }}</p>
+	      <p>Rating: 5/5</p>
+	    </a>
+
+	</div>
+  </ion-content>
+</ion-view>

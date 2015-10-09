@@ -1,0 +1,22 @@
+[
+  {
+    "kind" : "Restaurants",
+    "name" : "Restaurant",
+    "icon"  : "fa fa-cutlery"
+  },
+    {
+    "kind" : "KTVs",
+    "name" : "ktv",
+    "icon"  : "fa fa-microphone"
+  },
+    {
+    "kind" : "Bars",
+    "name" : "bar",
+    "icon"  : "fa fa-glass"
+  },
+  {
+    "kind" : "Nightclubs",
+    "name" : "Nightclub",
+    "icon"  : "fa fa-beer"
+  }
+]
